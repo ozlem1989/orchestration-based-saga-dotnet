@@ -8,7 +8,7 @@ SAGA.Orchestrator is the orchestrator, state machine. The scenerio is that a use
 
 Postman Example : 
 Url (POST)
-https://localhost:44308/api/Orchestrator
+https://{host:port}/api/Orchestrator
 Request : 
 {
     "ProductName" : "test"
